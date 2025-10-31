@@ -1,6 +1,6 @@
 # Inteligência Artificial - Infoeste 2025
 
-Este repositório contém o material do curso de **Inteligência Artificial** ministrado durante o evento **Infoeste 2024** para alunos da ETEC. O curso foi desenvolvido e apresentado por um time de quatro instrutores, com o objetivo de introduzir conceitos fundamentais e práticas modernas de IA, explorando aplicações reais e ferramentas acessíveis.
+Este repositório contém o material do curso de **Inteligência Artificial** ministrado durante o evento **Infoeste 2025** para alunos da ETEC. O curso foi desenvolvido e apresentado por um time de quatro instrutores, com o objetivo de introduzir conceitos fundamentais e práticas modernas de IA, explorando aplicações reais e ferramentas acessíveis.
 
 ---
 
