@@ -45,7 +45,7 @@ Capacitar os alunos a:
 
 ## 🤝 **Colaboradores**
 - [MrBElga (GitHub)](https://github.com/MrBElga)
-- [Luis (GitHub)](https://github.com/yuisilumi)
+- [Luis (GitHub)](https://github.com/lyuisilumi)
 
 
 
