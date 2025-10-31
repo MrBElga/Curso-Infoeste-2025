@@ -1,35 +1,29 @@
-# Inteligência Artificial - Infoeste 2025
+# 🤖 Inteligência Artificial - Infoeste 2025
 
-Este repositório contém o material do curso de **Inteligência Artificial** ministrado durante o evento **Infoeste 2025** para alunos da ETEC. O curso foi desenvolvido e apresentado por um time de quatro instrutores, com o objetivo de introduzir conceitos fundamentais e práticas modernas de IA, explorando aplicações reais e ferramentas acessíveis.
+Este repositório contém o material do curso de **Inteligência Artificial** ministrado durante o evento **Infoeste 2025**, voltado para alunos da **ETEC**.  
+O curso foi desenvolvido e apresentado por um time de quatro instrutores, com o objetivo de **introduzir conceitos fundamentais de IA** e mostrar suas aplicações no mundo real, de forma leve e prática. 🚀
 
 ---
 
 ## 📚 **Conteúdo do Curso**
 
-### 1. **Introdução à Inteligência Artificial**
-- Definição de IA e seus conceitos fundamentais.
-- Principais áreas de aplicação na indústria e na pesquisa.
-- Marcos históricos que moldaram o desenvolvimento da IA.
+### 1. 🧠 **Introdução à Inteligência Artificial**
+- O que é IA e como ela está presente no dia a dia.
+- Principais áreas de aplicação.
+- Um breve passeio pela história da IA.
 
-### 2. **Chatbots**
-- O que são e como os chatbots transformam a interação humano-computador.
-- Demonstração e construção de um chatbot simples utilizando **ChatGPT**.
+### 2. 💬 **Chatbots**
+- Como os chatbots mudaram a forma de conversar com máquinas.
+- Demonstração e criação de um chatbot simples usando **ChatGPT**.
 
-### 3. **Reconhecimento de Objetos**
-- Aplicações práticas de IA no reconhecimento de imagens e objetos.
-- Implementações no **Google Colab** com bibliotecas modernas.
+### 3. 🕵️ **Reconhecimento de Objetos**
+- IA aplicada a imagens e visão computacional.
+- Implementações no **Google Colab** com **TensorFlow** e **Keras**.
 
-### 4. **Projetos Práticos**
-- Exercícios interativos para consolidar o aprendizado.
-- Uso de ferramentas como **Python**, **TensorFlow** e **Keras**.
-
----
-
-## 📁 **Estrutura do Repositório**
-
-- `materiais/`: Slides, textos e outros recursos de apoio utilizados durante o curso.
-- `notebooks/`: Códigos e exemplos práticos em formato **Jupyter Notebook**.
-- `database/`: Conjunto de dados utilizados nos projetos e exercícios.
+### 4. 🧩 **Projetos Práticos**
+- Exercícios interativos para fixar o conteúdo.
+- Para baixar o dataset completo (4.000 imagens):  
+  📁 [Drive - Dataset Completo](https://drive.google.com/drive/folders/1r1Fs2HXxHeQIbuJ0b2bZzo7TfuTTARU1?usp=drive_link)
 
 ---
 
